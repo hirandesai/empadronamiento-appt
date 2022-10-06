@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadronAppt", "PadronAppt\PadronAppt.csproj", "{EC036315-C960-4EE4-ACE9-52F35F0B8E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC036315-C960-4EE4-ACE9-52F35F0B8E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC036315-C960-4EE4-ACE9-52F35F0B8E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC036315-C960-4EE4-ACE9-52F35F0B8E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC036315-C960-4EE4-ACE9-52F35F0B8E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A72BD0B4-7786-4103-A689-B415F8EF174E}
+	EndGlobalSection
+EndGlobal
